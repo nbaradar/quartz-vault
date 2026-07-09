@@ -22,6 +22,12 @@ tags:
 - token-optimization
 - project
 title: Obsidian MCP Server
+created: 2025-10-25
+
+modified: 2026-06-14
+
+published: 2025-10-25
+
 ---
 
 > [!info] Reference: [[MCP Overview]] | [[Build a MCP Server]]

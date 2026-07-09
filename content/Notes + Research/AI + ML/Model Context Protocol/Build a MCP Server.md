@@ -7,6 +7,11 @@ tags:
   - anthropic
   - agents
 draft:
+created: 2025-10-24
+
+modified: 2025-10-27
+published: 2025-10-24
+
 ---
 > [!info] Reference: [[MCP Overview]]
 

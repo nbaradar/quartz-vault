@@ -4,6 +4,12 @@ tags:
   - signal
   - links
 draft: false
+created: 2026-06-14
+
+modified: 2026-06-30
+
+published: 2026-06-14
+
 ---
 # Intake
 

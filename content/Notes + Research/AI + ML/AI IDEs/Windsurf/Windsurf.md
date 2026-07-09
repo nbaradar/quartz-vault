@@ -5,6 +5,11 @@ tags:
   - ai/ml
   - windsurf
 draft:
+created: 2025-08-15
+
+modified: 2025-08-29
+published: 2025-08-15
+
 ---
 >[!info]- Relevant Links 
 > [Website](https://windsurf.com/)

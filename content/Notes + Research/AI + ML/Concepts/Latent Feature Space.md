@@ -5,6 +5,12 @@ tags:
   - concept
 draft: 
 description:
+created: 2025-06-19
+
+modified: 2025-06-20
+
+published: 2025-06-19
+
 ---
 A **latent space**, also known as a **latent feature space** or **embedding space**, is an [embedding](https://en.wikipedia.org/wiki/Embedding "Embedding") of a set of items within a [manifold](https://en.wikipedia.org/wiki/Manifold "Manifold") in which items resembling each other are positioned closer to one another. Position within the latent space can be viewed as being defined by a set of [latent variables](https://en.wikipedia.org/wiki/Latent_variable "Latent variable") that emerge from the resemblances from the objects.
 

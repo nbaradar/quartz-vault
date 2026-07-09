@@ -4,6 +4,12 @@ tags:
   - thought
   - neuroscience
 draft: true
+created: 2025-12-23
+
+modified: 2026-02-23
+
+published: 2025-12-23
+
 ---
 >[!example] [Link to Study: 'Psilocybin triggers an activity-dependent rewiring of large-scale cortical networks'](https://www.cell.com/cell/fulltext/S0092-8674(25)01305-4)
 >![[Pasted image 20251224104937.png|300]]

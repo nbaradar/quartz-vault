@@ -1,6 +1,12 @@
 ---
 title: The Latent Space
 draft: false
+created: 2021-07-18
+
+modified: 2025-06-29
+
+published: 2021-07-18
+
 ---
 ****
 >[!tip] To understand how to use/navigate this space, please [[Start Here]]

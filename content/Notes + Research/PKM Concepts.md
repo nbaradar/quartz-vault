@@ -5,6 +5,12 @@ tags:
   - meta
 draft: 
 type:
+created: 2025-06-19
+
+modified: 2025-10-28
+
+published: 2025-06-19
+
 ---
 # Tagging
 >[!info]- Resources

@@ -5,6 +5,11 @@ tags:
   - windsurf
   - projects
 draft:
+created: 2025-08-15
+
+modified: 2025-08-24
+published: 2025-08-15
+
 ---
 I am going to create a "Graph View" of Wikipedia as a POC project to test [[Windsurf]] capabilities. 
 

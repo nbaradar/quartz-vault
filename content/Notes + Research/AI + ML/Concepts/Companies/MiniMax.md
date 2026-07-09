@@ -5,6 +5,11 @@ tags:
   - company
   - china
 draft:
+created: 2025-11-23
+
+modified: 2025-11-23
+published: 2025-11-23
+
 ---
 ![[Pasted image 20251123172147.png|200]]
 

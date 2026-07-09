@@ -4,6 +4,11 @@ tags:
   - study
   - coursera-sml
 draft:
+created: 2025-06-19
+
+modified: 2025-09-19
+published: 2025-06-19
+
 ---
 > [!example] [[Overview of Machine Learning|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[Linear Regression Models|Next Lesson ->]]
 ## Supervised Learning: Regression

@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - reference
 draft:
+created: 2025-06-29
+
+modified: 2025-07-05
+
+published: 2025-06-29
+
 ---
 
 Meta-prompting is a technique in prompt engineering where prompts are used to generate, modify, or interpret other prompts. This approach involves creating high-level prompts that guide the AI in understanding or creating more specific prompts for various tasks.

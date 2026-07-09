@@ -4,6 +4,12 @@ tags:
   - contextcore
   - lab
 draft:
+created: 2025-06-30
+
+modified: 2025-07-06
+
+published: 2025-06-30
+
 ---
 I'm trying to map out all of ContextCore as a system. Can't build a system if you don't understand it. It should also be easily understood. No one will use a confusing system. 
 

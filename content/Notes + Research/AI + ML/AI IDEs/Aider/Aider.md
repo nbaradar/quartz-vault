@@ -4,6 +4,12 @@ tags:
   - ai/ml
   - lab
 draft:
+created: 2025-06-30
+
+modified: 2025-06-30
+
+published: 2025-06-30
+
 ---
 >[!info]- Relevant Links 
 >- [Website](https://aider.chat/)

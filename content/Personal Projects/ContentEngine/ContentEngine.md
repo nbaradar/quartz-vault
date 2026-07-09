@@ -5,6 +5,12 @@ tags:
 - contentengine
 - project
 title: ContentEngine
+created: 2025-06-18
+
+modified: 2025-11-01
+
+published: 2025-06-18
+
 ---
 
 Can we create an AI agent that posts topical memes to twitter daily? Have it automatically generate 2-3 a day? Python, just make it a service that runs. 

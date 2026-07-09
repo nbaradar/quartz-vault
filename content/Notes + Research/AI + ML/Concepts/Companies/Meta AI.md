@@ -4,6 +4,12 @@ tags:
   - concept
   - company
 draft:
+created: 2025-07-05
+
+modified: 2025-07-26
+
+published: 2025-07-05
+
 ---
 ![[Pasted image 20250705134750.png|350]]
 

@@ -4,6 +4,11 @@ tags:
   - study
   - coursera-sml
 draft:
+created: 2025-08-29
+
+modified: 2025-12-15
+published: 2025-08-29
+
 ---
 >[!example] [[Linear Regression Models|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[quartz/content/Study/Supervised Machine Learning/Week 1/Gradient Descent|Next Lesson ->]]
 

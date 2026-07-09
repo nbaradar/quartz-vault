@@ -6,6 +6,12 @@ tags:
 - contextcore
 - project
 title: EchoForge
+created: 2025-06-17
+
+modified: 2025-11-01
+
+published: 2025-06-17
+
 ---
 
 >[!important] [Github Repo](https://github.com/nbaradar/echoforge)

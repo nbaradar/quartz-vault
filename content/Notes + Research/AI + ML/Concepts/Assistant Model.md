@@ -7,6 +7,12 @@ tags:
   - concept
 draft: 
 description:
+created: 2025-06-18
+
+modified: 2025-06-19
+
+published: 2025-06-18
+
 ---
 - **Training:**
     Fine-tuned from a base model using datasets of instructions and corresponding outputs, or question-answer pairs, to align its capabilities with specific tasks. 

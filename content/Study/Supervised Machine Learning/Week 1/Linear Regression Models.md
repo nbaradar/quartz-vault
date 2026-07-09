@@ -4,6 +4,11 @@ tags:
   - study
   - coursera-sml
 draft:
+created: 2025-08-29
+
+modified: 2025-09-19
+published: 2025-08-29
+
 ---
 > [!example] [[Supervised vs. Unsupervised Machine Learning|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[Cost Function|Next Lesson ->]]
 ## Linear Regression Model

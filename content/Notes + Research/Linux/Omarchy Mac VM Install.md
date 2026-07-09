@@ -8,6 +8,12 @@ tags:
   - arch
   - macos
 draft:
+created: 2025-09-29
+
+modified: 2025-10-22
+
+published: 2025-09-29
+
 ---
 >[!Important] To skip to actual instructions [[Omarchy Mac VM Install#Running with UTM/QEMU|skip to section 3]]
 ## Preparing the Virtual Machine Hard Drive

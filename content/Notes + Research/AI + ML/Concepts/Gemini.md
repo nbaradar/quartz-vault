@@ -6,6 +6,12 @@ tags:
   - gemini
   - model
 draft:
+created: 2025-06-29
+
+modified: 2026-06-30
+
+published: 2025-06-29
+
 ---
 ![[Pasted image 20251022111332.png|400]]
 

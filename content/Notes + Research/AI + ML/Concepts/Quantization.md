@@ -4,6 +4,12 @@ tags:
   - concept
   - local_llm
   - ai/ml
+created: 2025-07-14
+
+modified: 2025-07-14
+
+published: 2025-07-14
+
 ---
 Quantization is a technique to reduce the size and computational demands of [[Large Language Model|Large Language Models]] by representing their weights and activations with fewer bits. 
 

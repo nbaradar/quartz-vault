@@ -4,6 +4,11 @@ tags:
   - study
   - coursera-sml
 draft:
+created: 2025-12-11
+
+modified: 2025-12-15
+published: 2025-12-11
+
 ---
 >[!example] [[Cost Function|<- Previous Lesson]] | [[Supervised Machine Learning|Home]]
 

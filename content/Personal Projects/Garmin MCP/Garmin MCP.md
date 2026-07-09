@@ -4,6 +4,12 @@ tags:
   - project
   - mcp
 draft: true
+created: 2025-11-27
+
+modified: 2026-06-14
+
+published: 2025-11-27
+
 ---
 https://www.reddit.com/r/Garmin/comments/114eh9y/personal_use_of_garmin_api/
 https://github.com/tcgoetz/GarminDB

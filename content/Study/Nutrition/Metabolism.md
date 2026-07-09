@@ -4,6 +4,12 @@ tags:
   - study
   - nutrition
 draft: false
+created: 2025-10-22
+
+modified: 2025-10-22
+
+published: 2025-10-22
+
 ---
 ## Overview
 How do our bodies break down food into energy and our building blocks (proteins)?

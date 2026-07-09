@@ -3,6 +3,11 @@ tags:
 - personalproject
 - project
 title: Personal Projects
+created: 2025-06-18
+
+modified: 2025-11-01
+published: 2025-06-18
+
 ---
 
 # Current Projects

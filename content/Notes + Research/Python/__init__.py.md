@@ -4,6 +4,12 @@ tags:
   - python
   - reference
 draft:
+created: 2025-06-29
+
+modified: 2025-07-14
+
+published: 2025-06-29
+
 ---
 # __init__.py
 ```text

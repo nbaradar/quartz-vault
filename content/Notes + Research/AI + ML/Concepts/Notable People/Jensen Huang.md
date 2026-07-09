@@ -5,6 +5,11 @@ tags:
   - notable_people
   - nvidia
 draft:
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 ![[Pasted image 20250919164645.png|400]]
 

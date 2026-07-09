@@ -3,6 +3,10 @@ title: Shoggoth AI Memes
 tags:
   - thought
 draft: false
+created: 2026-07-01
+modified: 2026-07-09
+
+published: 2026-07-01
 ---
 
 >[!note]- The Original Posts

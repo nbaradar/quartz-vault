@@ -4,6 +4,11 @@ draft: true
 tags:
   - openai
   - thought
+created: 2025-12-23
+
+modified: 2025-12-24
+published: 2025-12-23
+
 ---
 
 ![[Pasted image 20251223132044.png|1000]]

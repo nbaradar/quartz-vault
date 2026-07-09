@@ -6,6 +6,12 @@ tags:
   - obsidian
   - guide
 date: 2025-06-10
+created: 2025-06-10
+
+modified: 2025-06-29
+
+published: 2025-06-10
+
 ---
 You should make some tooling around auto syncing with crontab (comes with MacOS) and put it in a repo. You could make it really easy for people to set up. 
 But just for now explain the process of setting it up in very simple steps

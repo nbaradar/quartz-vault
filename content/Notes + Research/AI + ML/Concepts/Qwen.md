@@ -6,6 +6,12 @@ tags:
   - alibaba
   - model
 draft:
+created: 2025-07-26
+
+modified: 2026-06-30
+
+published: 2025-07-26
+
 ---
 ![[Pasted image 20250725112617.png|400]]
 

@@ -1,5 +1,11 @@
 ---
 title: AI IDEs
+created: 2025-06-29
+
+modified: 2026-02-23
+
+published: 2025-06-29
+
 ---
 A Directory of all the CLI coding agents currently available: https://clicodingagents.com/
 

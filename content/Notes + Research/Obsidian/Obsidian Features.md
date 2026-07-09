@@ -4,6 +4,12 @@ tags:
   - obsidian
   - reference
 draft:
+created: 2025-06-16
+
+modified: 2025-10-27
+
+published: 2025-06-16
+
 ---
 # Callouts
 ## Foldable Callouts

@@ -4,6 +4,12 @@ tags:
   - notable_people
   - concept
 draft:
+created: 2025-06-17
+
+modified: 2025-12-11
+
+published: 2025-06-17
+
 ---
 ![[Pasted image 20250617175743.png||400]]
 

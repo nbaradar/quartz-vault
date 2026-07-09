@@ -3,6 +3,12 @@ title: Mixture of Experts
 draft: 
 tags:
   - concept
+created: 2025-06-28
+
+modified: 2025-06-28
+
+published: 2025-06-28
+
 ---
 > [!info] A [[Hugging Face]] provided [introduction to MoE](https://huggingface.co/blog/moe)
 

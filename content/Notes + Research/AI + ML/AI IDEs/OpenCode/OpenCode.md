@@ -3,6 +3,12 @@ title: OpenCode
 tags:
   - lab
   - ai/ml
+created: 2026-02-23
+
+modified: 2026-02-23
+
+published: 2026-02-23
+
 ---
 >[!info]- Relevant Links
 > [GitHub Repo](https://github.com/anomalyco/opencode)

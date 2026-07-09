@@ -8,6 +8,11 @@ tags:
   - arch
   - windows
 draft:
+created: 2025-10-22
+
+modified: 2025-10-24
+published: 2025-10-22
+
 ---
 >[!hint] See [[Omarchy Mac VM Install]] for MacOS instructions
 

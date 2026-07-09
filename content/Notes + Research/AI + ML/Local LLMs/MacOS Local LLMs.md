@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - guide
 draft:
+created: 2025-06-17
+
+modified: 2025-07-14
+
+published: 2025-06-17
+
 ---
 # Quickstart
 >![note]- Specs

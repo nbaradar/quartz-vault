@@ -2,6 +2,10 @@
 title: Site TODO List
 tags:
   - meta
+created: 2025-06-29
+modified: 2025-10-26
+published: 2025-06-29
+draft: true
 ---
 # Outstanding Tasks
 - [x] Fix mobile formatting - site looks messed up from mobile client

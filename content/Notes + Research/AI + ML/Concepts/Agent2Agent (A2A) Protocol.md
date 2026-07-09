@@ -6,6 +6,11 @@ tags:
   - agents
   - ai/ml
 draft:
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 The **Agent2Agent (A2A) Protocol** ([Documentation Here](https://a2a-protocol.org/latest/)) is an open standard developed by Google and donated to the Linux Foundation designed to enable seamless communication and collaboration between [[AI Agent|AI Agents]].
 

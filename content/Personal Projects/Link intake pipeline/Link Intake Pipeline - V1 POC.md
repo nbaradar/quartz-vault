@@ -9,6 +9,11 @@ tags:
   - reddit
 enableToc: true
 draft: false
+created: 2026-06-14
+
+modified: 2026-06-14
+published: 2026-06-14
+
 ---
 > [!success] POC complete
 > [[Link Intake|Link to Intake Page]] 

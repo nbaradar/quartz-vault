@@ -2,6 +2,12 @@
 title: Safe Superintelligence Inc
 tags:
   - concept
+created: 2025-06-28
+
+modified: 2025-07-26
+
+published: 2025-06-28
+
 ---
 ![[Pasted image 20250628185511.png|400]]
 

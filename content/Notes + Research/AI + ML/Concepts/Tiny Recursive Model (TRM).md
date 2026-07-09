@@ -4,6 +4,11 @@ tags:
   - concept
   - ai/ml
 draft:
+created: 2025-10-22
+
+modified: 2025-10-22
+published: 2025-10-22
+
 ---
 >[!note]- Resources
 > https://arxiv.org/abs/2510.04871

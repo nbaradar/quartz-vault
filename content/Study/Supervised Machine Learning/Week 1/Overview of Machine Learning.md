@@ -4,6 +4,11 @@ tags:
   - study
   - coursera-sml
 draft:
+created: 2025-06-19
+
+modified: 2025-09-19
+published: 2025-06-19
+
 ---
 > [!example] [[Supervised Machine Learning|Home]] | [[Supervised vs. Unsupervised Machine Learning|Next Lesson ->]]
 ## **What is [[Machine Learning]]?** 

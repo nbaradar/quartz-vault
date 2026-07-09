@@ -3,6 +3,12 @@ title: Windows Local LLMs
 tags:
   - local_llm
   - guide
+created: 2025-07-14
+
+modified: 2025-07-14
+
+published: 2025-07-14
+
 ---
 >[!note] [[Windows PC Specs|These are my current Desktop Specs]], updated July 2025
 

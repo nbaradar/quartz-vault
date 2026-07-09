@@ -6,6 +6,12 @@ tags:
   - company
   - industry
 draft:
+created: 2025-11-23
+
+modified: 2026-06-20
+
+published: 2025-11-23
+
 ---
 The "Six AI Tigers" (大模型六小虎) is a collective designation for six [China](https://en.wikipedia.org/wiki/China "China")-based [[Artificial Intelligence (AI)]] startup companies from 2021-2024.
 

@@ -4,6 +4,12 @@ tags:
   - signal
   - research
 draft:
+created: 2025-06-28
+
+modified: 2025-12-23
+
+published: 2025-06-28
+
 ---
 ## [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 >[!important] THIS IS A LANDMARK PAPER FOR MACHINE LEARNING (introduces [[Transformer]] architecture)

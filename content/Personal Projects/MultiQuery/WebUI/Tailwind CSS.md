@@ -5,6 +5,12 @@ tags:
   - contextcore
   - userinterface
   - lab
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 Using tailwind involves downloading different tailwind component libraries. 
 

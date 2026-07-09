@@ -3,6 +3,11 @@ title: 200 Year Old AI Prediction
 tags:
   - thought
 draft:
+created: 2025-08-20
+
+modified: 2026-06-19
+published: 2025-08-20
+
 ---
 ![[Pasted image 20250820120454.png|300]]
 [Samuel Butler](https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)) was an English novelist born in 1835. His influence on literature, such as it was, came through [_The Way of All Flesh_](https://en.wikipedia.org/wiki/The_Way_of_All_Flesh), which Butler completed in the 1880s, but left unpublished to protect his family. 

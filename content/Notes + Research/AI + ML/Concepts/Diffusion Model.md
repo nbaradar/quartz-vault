@@ -4,6 +4,12 @@ tags:
   - concept
   - ai/ml
   - model
+created: 2025-07-14
+
+modified: 2026-06-20
+
+published: 2025-07-14
+
 ---
 [Diffusion Models](https://en.wikipedia.org/wiki/Diffusion_model) are a class of latent variable generative models. 
 

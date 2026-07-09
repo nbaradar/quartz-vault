@@ -6,6 +6,12 @@ tags:
   - anthropic
   - ai/ml
 draft:
+created: 2025-06-29
+
+modified: 2026-06-14
+
+published: 2025-06-29
+
 ---
 >[!important]- **You** must **have a** **pro account**
 >[Pricing](https://www.anthropic.com/pricing) 

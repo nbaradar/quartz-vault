@@ -3,6 +3,12 @@ title: Windows PC Specs
 tags:
   - lab
   - local_llm
+created: 2025-07-14
+
+modified: 2025-07-19
+
+published: 2025-07-14
+
 ---
 # 🖥️ Full System Specifications
 

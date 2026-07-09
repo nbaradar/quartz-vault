@@ -5,6 +5,12 @@ tags:
   - lab
 draft: 
 description: Some quickly jotted handwritten notes. I will rewrite/organize this all later
+created: 2025-06-17
+
+modified: 2025-06-30
+
+published: 2025-06-17
+
 ---
 
 

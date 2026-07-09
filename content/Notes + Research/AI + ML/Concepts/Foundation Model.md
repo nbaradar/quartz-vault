@@ -3,6 +3,12 @@ title: Foundation Model
 tags:
   - ai/ml
   - concept
+created: 2025-06-18
+
+modified: 2025-07-05
+
+published: 2025-06-18
+
 ---
 >[!important] A specific type of [[Base Model]]
 

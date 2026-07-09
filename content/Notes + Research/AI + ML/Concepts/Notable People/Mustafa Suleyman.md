@@ -4,6 +4,11 @@ tags:
   - concept
   - notable_people
   - microsoft
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 ![[Pasted image 20250919180425.png|400]]
 

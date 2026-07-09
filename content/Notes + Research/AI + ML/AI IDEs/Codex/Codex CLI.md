@@ -6,6 +6,12 @@ tags:
   - ai/ml
   - chatgpt
 draft:
+created: 2025-06-30
+
+modified: 2026-02-23
+
+published: 2025-06-30
+
 ---
 >[!info]- Relevant Links 
 >- [Announcement Blog](https://openai.com/index/introducing-codex/)

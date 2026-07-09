@@ -4,6 +4,12 @@ tags:
   - contextstore
   - lab
 draft:
+created: 2025-07-05
+
+modified: 2025-07-05
+
+published: 2025-07-05
+
 ---
 This DB is for **APPLICATION LEVEL AUDIT LOGS**. It will not capture any low level errors, but will instead track **events** and provide **traceability** for things like ingestion, enrichment, and tagging. Could support user-facing history / admin dashboards as well. 
 

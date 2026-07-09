@@ -6,6 +6,11 @@ tags:
   - claude
   - guide
 draft:
+created: 2025-07-19
+
+modified: 2025-07-20
+published: 2025-07-19
+
 ---
 >[!important]- **You** must **have a** **pro account**
 >[Pricing](https://www.anthropic.com/pricing) 

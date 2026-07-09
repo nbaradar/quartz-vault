@@ -5,6 +5,12 @@ tags:
   - multiquery
   - contextcore
   - mongodb
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 Let's integrate MongoDB so the exported result.json file gets stored in a database called "MultiQuery" in the collection "result" 
 

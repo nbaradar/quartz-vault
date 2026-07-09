@@ -4,6 +4,12 @@ tags:
   - reference
   - ai/ml
   - local_llm
+created: 2025-07-14
+
+modified: 2025-07-14
+
+published: 2025-07-14
+
 ---
 >[!important] [GitHub Repo](https://github.com/oobabooga/text-generation-webui)
 # Overview

@@ -6,6 +6,12 @@ tags:
   - ai/ml
   - "#reference"
 draft:
+created: 2025-06-17
+
+modified: 2025-10-26
+
+published: 2025-06-17
+
 ---
 # Resources
 ### Books

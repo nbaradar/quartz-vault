@@ -6,6 +6,12 @@ tags:
   - userinterface
   - lab
   - mongodb
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 The best way to interact with a MongoDB database in a **FastAPI** application is to use an **asynchronous MongoDB driver**, such as `motor`. It integrates seamlessly with FastAPI and allows for non-blocking database operations, which is important to maintain the responsiveness of your application.
 

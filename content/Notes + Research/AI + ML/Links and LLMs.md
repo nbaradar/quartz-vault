@@ -6,6 +6,11 @@ tags:
   - ai/ml
   - "#reference"
 draft:
+created: 2025-06-17
+
+modified: 2025-10-25
+published: 2025-06-17
+
 ---
 >[!info] Misc Links:
 > - [The Technist Reformation: A Discussion with o1 About The Coming Economic Event Horizon](https://www.lesswrong.com/posts/6x9aKkjfoztcNYchs/the-technist-reformation-a-discussion-with-o1-about-the)

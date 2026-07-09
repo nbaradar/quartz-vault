@@ -5,6 +5,12 @@ tags:
   - contextcore
   - pydantic
   - fastapi
+created: 2025-06-29
+
+modified: 2025-07-05
+
+published: 2025-06-29
+
 ---
 # Plan for FastAPI Backend
 #### **1. Set Up the FastAPI Application**

@@ -11,6 +11,11 @@ tags:
   - project
 title: "Product Strategy: Skills vs MCP and Market Positioning"
 draft: true
+created: 2025-10-27
+
+modified: 2025-11-10
+published: 2025-10-27
+
 ---
 
 # Product Strategy: Skills vs MCP and Market Positioning

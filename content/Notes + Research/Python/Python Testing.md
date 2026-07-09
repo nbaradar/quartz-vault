@@ -5,6 +5,11 @@ tags:
   - python
   - testing
 draft:
+created: 2025-10-28
+
+modified: 2025-10-28
+published: 2025-10-28
+
 ---
 # Overview
 ## Setup

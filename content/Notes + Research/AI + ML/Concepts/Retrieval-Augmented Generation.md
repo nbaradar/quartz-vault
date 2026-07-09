@@ -4,6 +4,12 @@ tags:
   - concept
   - ai/ml
 draft:
+created: 2025-06-29
+
+modified: 2025-09-19
+
+published: 2025-06-29
+
 ---
 >[!example]- Useful Resources
 >[Efficient Vector Search in RAG Applications](https://pub.towardsai.net/unlocking-the-power-of-efficient-vector-search-in-rag-applications-c2e3a0c551d5)

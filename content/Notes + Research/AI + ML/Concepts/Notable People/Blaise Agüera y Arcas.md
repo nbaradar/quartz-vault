@@ -3,6 +3,12 @@ title: Blaise Agüera y Arcas
 tags:
   - notable_people
   - concept
+created: 2026-06-20
+
+modified: 2026-06-20
+
+published: 2026-06-20
+
 ---
 ![[Pasted image 20260619220615.png|350]]
 

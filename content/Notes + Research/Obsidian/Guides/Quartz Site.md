@@ -6,6 +6,12 @@ tags:
   - obsidian
   - guide
 date: 2025-06-10
+created: 2025-06-10
+
+modified: 2025-06-29
+
+published: 2025-06-10
+
 ---
 Showing how to set up and configure quartz with obsidian. And also how to easily host it with GitHub Pages/Netfliy/CloudFlare
 

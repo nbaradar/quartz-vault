@@ -5,6 +5,12 @@ tags:
   - multiquery
   - contextcore
   - xai
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 [The Hitchhikers Guide to the API](https://docs.x.ai/docs/tutorial)
 

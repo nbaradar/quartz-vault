@@ -1,3 +1,12 @@
+---
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
+---
+
 # Local Setup
 ###### First, you want to download MongoDB community
 	https://www.mongodb.com/try/download/community

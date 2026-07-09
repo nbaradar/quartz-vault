@@ -6,6 +6,12 @@ tags:
   - chatgpt
   - ai/ml
 draft:
+created: 2025-06-30
+
+modified: 2026-02-23
+
+published: 2025-06-30
+
 ---
 First you need to make sure you meet these requirements:
 

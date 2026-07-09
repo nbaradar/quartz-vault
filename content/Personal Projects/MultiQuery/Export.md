@@ -4,6 +4,12 @@ tags:
   - lab
   - multiquery
   - contextcore
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 ## JSON Export
 Steps to implement

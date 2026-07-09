@@ -6,6 +6,12 @@ tags:
 - projects
 - project
 title: Wikipedia Graph View Development
+created: 2025-08-24
+
+modified: 2025-11-01
+
+published: 2025-08-24
+
 ---
 
 >[!important] POC Notes can be found here: 

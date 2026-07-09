@@ -3,6 +3,11 @@ title: Dune Awakening and Learned Helplessness
 tags:
   - thought
 draft: false
+created: 2025-10-22
+
+modified: 2026-06-19
+published: 2025-10-22
+
 ---
 ![[Pasted image 20251022131910.png|400]]
 ## Boiling the Lobster (or Worm) Alive

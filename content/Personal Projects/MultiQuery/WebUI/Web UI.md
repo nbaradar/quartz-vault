@@ -5,6 +5,12 @@ tags:
   - multiquery
   - contextcore
   - userinterface
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 # Overall App Tasks
 - [ ] DB Integrations ➕ 2025-01-07

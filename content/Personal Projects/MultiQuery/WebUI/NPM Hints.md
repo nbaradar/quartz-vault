@@ -5,6 +5,12 @@ tags:
   - contextcore
   - userinterface
   - reference
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 If you want to check if a Directory is an NPM directory, use 
 ```bash

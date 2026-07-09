@@ -6,6 +6,12 @@ tags:
   - concept
 draft: 
 description:
+created: 2025-06-18
+
+modified: 2025-06-28
+
+published: 2025-06-18
+
 ---
 > **Machine Learning**: The field of study that gives computers the ability to learn without being explicitly programmed. 
 > 

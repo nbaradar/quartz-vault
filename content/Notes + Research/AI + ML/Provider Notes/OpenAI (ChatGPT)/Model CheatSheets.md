@@ -5,6 +5,12 @@ tags:
   - openai
   - ai/ml
 draft:
+created: 2025-07-05
+
+modified: 2025-07-05
+
+published: 2025-07-05
+
 ---
 >[!important] Also consult: [[OpenAI Tips & Tricks#When to Use Each Model]]
 

@@ -7,6 +7,12 @@ tags:
   - asyncio
   - contextcore
 draft:
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 
 We will use [asyncio](https://docs.python.org/3/library/asyncio.html) for concurrency 

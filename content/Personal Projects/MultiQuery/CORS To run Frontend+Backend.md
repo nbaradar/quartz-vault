@@ -5,6 +5,12 @@ tags:
   - multiquery
   - contextcore
 draft:
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 CORS (Cross-Origin Resource Sharing) allows your frontend and backend to run on different origins (e.g., `http://localhost:3000` for the frontend and `http://127.0.0.1:8000` for the backend).
 #### **Advantages of CORS**

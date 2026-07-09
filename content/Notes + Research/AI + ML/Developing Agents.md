@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - lab
 draft: false
+created: 2025-09-19
+
+modified: 2025-11-23
+
+published: 2025-09-19
+
 ---
 Notes I gather about developing and aligning AI agents.
 

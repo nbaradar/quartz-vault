@@ -7,6 +7,11 @@ tags:
   - "#reference"
 description: Useful AI/ML tools and links
 draft:
+created: 2025-06-16
+
+modified: 2025-12-24
+published: 2025-06-16
+
 ---
 - [OpenRouter](https://openrouter.ai/docs/quick-start): Open-AI compatible completion API to 296 models and providers
 - [Ollama](https://ollama.com/) - allows you to run open source LLMs locally on your machine. And can expose your LLM through an API

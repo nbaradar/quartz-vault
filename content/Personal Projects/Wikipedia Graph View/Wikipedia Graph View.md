@@ -3,6 +3,12 @@ tags:
 - projects
 - project
 title: Wikipedia Graph View
+created: 2025-08-24
+
+modified: 2025-11-01
+
+published: 2025-08-24
+
 ---
 
 # Wikipedia Graph View

@@ -5,6 +5,12 @@ tags:
   - echoforge
   - contextcore
 draft:
+created: 2025-06-29
+
+modified: 2025-07-14
+
+published: 2025-06-29
+
 ---
 >[!info] OpenAI export POC: **Just simply create the ability to import memories from OpenAI. Use what you learn to implement this for other providers as well. But for now just focus on ChatGPT.**
 

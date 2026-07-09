@@ -3,6 +3,11 @@ title: Life 2.0
 tags:
   - thought
 draft:
+created: 2025-08-30
+
+modified: 2025-12-24
+published: 2025-08-30
+
 ---
 ![[Pasted image 20251224105554.png|600]]
 # Rethinking Meaning, Mind, and the Post-Natural Era

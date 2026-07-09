@@ -3,6 +3,12 @@ title: Shards
 tags:
   - contextcore
   - lab
+created: 2025-06-30
+
+modified: 2025-06-30
+
+published: 2025-06-30
+
 ---
 # Semantic Clustering
 Shards are semantic grouping values that can link elements (memories) together.

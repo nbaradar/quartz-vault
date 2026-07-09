@@ -4,6 +4,12 @@ tags:
   - google
   - agents
   - signal
+created: 2025-11-23
+
+modified: 2025-11-23
+
+published: 2025-11-23
+
 ---
 [DORA](https://dora.dev/publications/) = DevOps Research and Assessment
 

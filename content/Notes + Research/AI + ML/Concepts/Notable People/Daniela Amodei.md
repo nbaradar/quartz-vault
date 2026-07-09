@@ -3,6 +3,12 @@ title: Daniela Amodei
 tags:
   - concept
   - notable_people
+created: 2025-06-28
+
+modified: 2025-07-05
+
+published: 2025-06-28
+
 ---
 ![[Pasted image 20250620164202.png|400]]
 

@@ -4,6 +4,11 @@ tags:
   - thought
   - gaming
 draft:
+created: 2026-06-19
+
+modified: 2026-06-19
+published: 2026-06-19
+
 ---
 
 

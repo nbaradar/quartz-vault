@@ -5,6 +5,11 @@ tags:
   - company
   - microsoft
 draft:
+created: 2025-08-29
+
+modified: 2025-09-19
+published: 2025-08-29
+
 ---
 ![[Pasted image 20250829180118.png|400]]
 [Microsoft](https://en.wikipedia.org/wiki/Microsoft) is an American tech conglomerate headquartered in Redmond, Washington. 

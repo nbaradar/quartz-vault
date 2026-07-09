@@ -6,6 +6,12 @@ tags:
   - obsidian
   - guide
 date: 2025-06-10
+created: 2025-06-10
+
+modified: 2025-06-29
+
+published: 2025-06-10
+
 ---
 > [!warning] This section was written very quickly. I will update it with more detail later.
 ## Step 1: AutoSync Bash Script

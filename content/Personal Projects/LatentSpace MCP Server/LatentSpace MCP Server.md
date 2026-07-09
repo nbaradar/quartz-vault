@@ -9,6 +9,11 @@ tags:
   - python
 enableToc: true
 draft: true
+created: 2025-11-09
+
+modified: 2025-11-10
+published: 2025-11-09
+
 ---
 > [!info] Reference: [[MCP Overview]] | [[Build a MCP Server]]
 

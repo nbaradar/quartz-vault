@@ -5,6 +5,12 @@ tags:
   - contextcore
   - userinterface
   - study
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 ### **What Is Axios?**
 **Axios** is a popular JavaScript library for making HTTP requests from the browser or Node.js. It simplifies interactions with APIs, such as sending data via `POST` or retrieving data via `GET`.

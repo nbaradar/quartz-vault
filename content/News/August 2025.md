@@ -4,6 +4,12 @@ tags:
   - signal
   - news
 draft:
+created: 2025-08-15
+
+modified: 2025-09-19
+
+published: 2025-08-15
+
 ---
 # Politics
 ## [Deal to get ChatGPT Plus for whole of UK discussed by Open AI boss and minister](https://www.theguardian.com/politics/2025/aug/23/uk-minister-peter-kyle-chatgpt-plus-openai-sam-altman)

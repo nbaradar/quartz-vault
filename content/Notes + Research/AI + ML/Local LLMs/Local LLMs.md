@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - lab
 draft:
+created: 2025-06-17
+
+modified: 2025-07-14
+
+published: 2025-06-17
+
 ---
 > [!info] This space will contain any learning/research notes pertaining to running LLMs locally on a machine.
 > 

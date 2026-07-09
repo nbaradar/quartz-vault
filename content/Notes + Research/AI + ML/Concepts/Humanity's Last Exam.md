@@ -4,6 +4,12 @@ tags:
   - ai/ml
   - concept
 draft:
+created: 2025-07-19
+
+modified: 2025-07-19
+
+published: 2025-07-19
+
 ---
 ![[Pasted image 20250718125231.png]]
 

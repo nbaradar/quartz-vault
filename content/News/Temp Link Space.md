@@ -1,6 +1,11 @@
 ---
 title: Temp Link Space
 draft: true
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 
 

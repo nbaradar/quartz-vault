@@ -4,6 +4,12 @@ title:
 tags:
   - concept
   - notable_people
+created: 2025-09-29
+
+modified: 2025-09-29
+
+published: 2025-09-29
+
 ---
 ![[Pasted image 20250923152323.png|250]]
 

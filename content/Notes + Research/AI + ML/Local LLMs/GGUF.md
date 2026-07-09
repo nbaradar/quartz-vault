@@ -4,6 +4,12 @@ tags:
   - local_llm
   - reference
   - ai/ml
+created: 2025-07-14
+
+modified: 2025-07-14
+
+published: 2025-07-14
+
 ---
 **GGUF (GPTQ GPU Unified Format)** is the evolved file format used in llama.cpp.
 

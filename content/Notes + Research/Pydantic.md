@@ -2,6 +2,12 @@
 title: Pydantic
 tags:
   - reference
+created: 2025-07-05
+
+modified: 2025-07-05
+
+published: 2025-07-05
+
 ---
 # Pydantic
 Python library used for **data validation and settings management**. Allows you to define schemas using Python classes and ensures that data adheres to those schemas. Often used in modern Python applications, especially with frameworks like FastAPI, because of its integration and simplicity.

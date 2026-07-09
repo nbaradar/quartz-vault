@@ -7,6 +7,12 @@ tags:
   - "#reference"
 date: 2025-06-12
 draft: false
+created: 2025-06-17
+
+modified: 2025-06-29
+
+published: 2025-06-17
+
 ---
 A collection of fun/creative/silly prompts that I mostly happened upon online.
 # General

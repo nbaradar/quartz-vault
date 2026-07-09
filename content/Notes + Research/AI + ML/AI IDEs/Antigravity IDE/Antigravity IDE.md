@@ -5,6 +5,11 @@ tags:
   - google
   - ai/ml
 draft:
+created: 2025-12-24
+
+modified: 2025-12-24
+published: 2025-12-24
+
 ---
 > [!note] Reference Links
 > [Antigravity Homepage](https://antigravity.google/)

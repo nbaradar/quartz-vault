@@ -5,6 +5,11 @@ tags:
   - agents
   - ai/ml
 draft:
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 An artificial intelligence (AI) agent is a software program that can interact with its environment, collect data, and use that data to perform self-directed tasks that meet predetermined goals.
 

@@ -5,6 +5,12 @@ tags:
   - contextcore
   - userinterface
   - lab
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 Your new approach is a **great idea** for a prototype! Keeping the UI simple and functional while providing the ability to select multiple providers in a dropdown is the perfect balance between usability and flexibility. Here's why I think it's a solid choice and some suggestions to make it even better:
 

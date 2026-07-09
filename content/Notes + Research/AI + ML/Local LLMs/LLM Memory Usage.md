@@ -4,6 +4,12 @@ tags:
   - reference
   - local_llm
   - ai/ml
+created: 2025-07-14
+
+modified: 2025-07-14
+
+published: 2025-07-14
+
 ---
 > How does memory usage work under the hood of an LLM? 
 # Memory Usage = Model Size × Precision × Overhead

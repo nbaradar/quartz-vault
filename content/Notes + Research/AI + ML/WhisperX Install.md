@@ -5,6 +5,11 @@ tags:
   - ai/ml
   - local_model
 draft:
+created: 2026-06-30
+
+modified: 2026-06-30
+published: 2026-06-30
+
 ---
 # Overview
 WhisperX uses the [[Whisper]] [[Automatic Speech Recognition (ASR) Systems]] to transcribe audio files and label them through speech recognition. You can run this locally on your machine by running the [[Transformer]] on your GPU. 

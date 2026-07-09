@@ -3,6 +3,11 @@ title: LLM Tooling VS Agents
 tags:
   - study
 draft:
+created: 2025-06-28
+
+modified: 2025-09-19
+published: 2025-06-28
+
 ---
 With both terms now having become industry buzzwords being thrown around ambiguously, let's define the relation between [[LLM Tooling]] and an [[AI Agent]].
 

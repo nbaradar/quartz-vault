@@ -8,6 +8,12 @@ tags:
 draft: 
 description: Overview of AGI
 type: concept
+created: 2025-06-17
+
+modified: 2025-07-05
+
+published: 2025-06-17
+
 ---
 Sometimes called **human‑level intelligence AI**—is a type of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") that would match or surpass human capabilities across virtually all cognitive tasks.
 

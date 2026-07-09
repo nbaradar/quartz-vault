@@ -5,6 +5,11 @@ tags:
   - reference
   - security
 draft: false
+created: 2025-08-22
+
+modified: 2025-08-24
+published: 2025-08-22
+
 ---
 > [!info] All the notes here are taken from an [interview with Jason Haddix](https://www.youtube.com/watch?v=2Z-9EOyb6HE)
 

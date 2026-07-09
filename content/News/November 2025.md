@@ -4,6 +4,12 @@ tags:
   - signal
   - news
 draft:
+created: 2025-11-09
+
+modified: 2025-12-11
+
+published: 2025-11-09
+
 ---
 # Politics
 ## [China's tech giants move AI model training overseas to access Nvidia chips, FT reports](https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/)

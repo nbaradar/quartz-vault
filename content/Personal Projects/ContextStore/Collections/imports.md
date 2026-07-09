@@ -3,6 +3,12 @@ title: imports
 tags:
   - contextstore
   - lab
+created: 2025-07-05
+
+modified: 2025-07-05
+
+published: 2025-07-05
+
 ---
 The imports collection will represent raw, unprocessed user input/data/memories that will later be ingested into the ContextCore memory system
 

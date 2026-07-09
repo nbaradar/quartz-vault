@@ -6,6 +6,12 @@ tags:
   - concept
   - google
 draft:
+created: 2025-11-27
+
+modified: 2025-11-27
+
+published: 2025-11-27
+
 ---
 >[!tip] You can try it [here](https://gemini.google/overview/image-generation/)
 

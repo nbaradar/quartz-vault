@@ -3,6 +3,11 @@ title: Supervised Machine Learning
 tags:
   - study
   - coursera-sml
+created: 2025-06-19
+
+modified: 2025-12-15
+published: 2025-06-19
+
 ---
 ![[Pasted image 20250619192310.png|300]]
 

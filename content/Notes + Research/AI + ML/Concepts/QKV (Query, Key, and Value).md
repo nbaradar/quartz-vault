@@ -5,6 +5,11 @@ tags:
   - ai/ml
   - transformer
 draft:
+created: 2025-12-23
+
+modified: 2025-12-23
+published: 2025-12-23
+
 ---
 QKV are vectors in the [[Transformer]] architecture. These are all part of the Transformers self-attention mechanism/module.
 

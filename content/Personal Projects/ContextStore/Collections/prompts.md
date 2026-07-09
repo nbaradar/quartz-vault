@@ -4,6 +4,12 @@ tags:
   - contextstore
   - lab
 draft:
+created: 2025-07-01
+
+modified: 2025-07-05
+
+published: 2025-07-01
+
 ---
 Create **one unified `prompts` collection** in your `contextcore` DB, with metadata fields that let you filter/scope across use cases.
 

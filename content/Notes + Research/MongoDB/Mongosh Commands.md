@@ -1,3 +1,12 @@
+---
+created: 2025-06-29
+
+modified: 2025-07-05
+
+published: 2025-06-29
+
+---
+
 >[!note]
 >[Cheat Sheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 # Helpers

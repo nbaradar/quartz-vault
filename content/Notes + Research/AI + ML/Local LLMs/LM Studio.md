@@ -5,6 +5,11 @@ tags:
   - ai/ml
   - lab
 draft:
+created: 2025-10-27
+
+modified: 2025-10-27
+published: 2025-10-27
+
 ---
 >[!info] [Documentation](https://lmstudio.ai/docs/app)
 ## What can I do with LM Studio?

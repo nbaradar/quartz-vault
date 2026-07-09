@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - model
 draft:
+created: 2025-06-19
+
+modified: 2026-06-20
+
+published: 2025-06-19
+
 ---
 >[!info] Additional Resources
 > - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)

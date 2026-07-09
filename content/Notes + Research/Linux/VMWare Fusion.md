@@ -4,6 +4,11 @@ tags:
   - vmware
   - reference
 draft:
+created: 2025-09-29
+
+modified: 2025-09-29
+published: 2025-09-29
+
 ---
 >[!note] MacBook Air 
 >16GB Ram

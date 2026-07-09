@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - gemini
   - google
+created: 2025-06-28
+
+modified: 2025-06-28
+
+published: 2025-06-28
+
 ---
 # Available Gemini CLI Commands
 

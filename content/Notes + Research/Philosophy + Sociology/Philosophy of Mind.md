@@ -3,6 +3,11 @@ title: Philosophy of Mind
 tags:
   - thought
 draft: true
+created: 2025-06-18
+
+modified: 2025-12-12
+published: 2025-06-18
+
 ---
 # Panpsychism
 Panpsychism is ==a philosophical theory that proposes consciousness or a mind-like quality is a fundamental and ubiquitous feature of reality, present in all things, not just humans or living beings==. Essentially, it suggests that even seemingly inanimate objects like rocks and atoms possess some form of rudimentary consciousness.

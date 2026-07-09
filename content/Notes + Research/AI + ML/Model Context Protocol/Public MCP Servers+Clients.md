@@ -6,6 +6,11 @@ tags:
   - links
   - reference
 draft:
+created: 2025-06-16
+
+modified: 2025-10-24
+published: 2025-06-16
+
 ---
 # [Servers](https://modelcontextprotocol.io/examples)
 

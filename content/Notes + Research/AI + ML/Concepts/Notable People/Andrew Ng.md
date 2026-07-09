@@ -4,6 +4,12 @@ tags:
   - ai/ml
   - notable_people
   - concept
+created: 2025-06-18
+
+modified: 2025-07-05
+
+published: 2025-06-18
+
 ---
 
 ![[Pasted image 20250617210708.png|400]]

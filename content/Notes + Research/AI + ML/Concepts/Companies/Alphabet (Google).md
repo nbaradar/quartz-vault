@@ -5,6 +5,11 @@ tags:
   - company
   - google
 draft:
+created: 2025-10-22
+
+modified: 2026-06-20
+published: 2025-10-22
+
 ---
 ![[Pasted image 20251022103230.png|350]]
 ![[Pasted image 20251022103018.png|350]]

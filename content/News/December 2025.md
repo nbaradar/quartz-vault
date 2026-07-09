@@ -4,6 +4,11 @@ tags:
   - signal
   - news
 draft:
+created: 2025-12-11
+
+modified: 2025-12-24
+published: 2025-12-11
+
 ---
 # Politics
 ## [Pete Hegseth Says the Pentagon's New Chatbot Will Make America 'More Lethal'](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/)

@@ -4,6 +4,11 @@ tags:
   - signal
   - news
 draft:
+created: 2025-10-22
+
+modified: 2025-12-12
+published: 2025-10-22
+
 ---
 # Politics
 

@@ -2,6 +2,12 @@
 title: BLOOM
 tags:
   - concept
+created: 2025-06-28
+
+modified: 2025-07-05
+
+published: 2025-06-28
+
 ---
 **BigScience Large Open-science Open-access Multilingual Language Model** (**BLOOM**) [was the World's Largest Open Multilingual Language Model](https://bigscience.huggingface.co/), It was the main outcome of the BigScience collaborative initiative, led by [[HuggingFace]] and involved several hundreds of researchers and engineers from France and abroad representing both the academia and the private sector.. It is no longer currently the largest multilingual model, but it played a pivotal role in the open-science and multilingual LLM space.
 

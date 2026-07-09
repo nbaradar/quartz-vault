@@ -5,6 +5,12 @@ tags:
   - ai/ml
   - gemini
   - google
+created: 2025-06-28
+
+modified: 2025-07-19
+
+published: 2025-06-28
+
 ---
 Very easy, first ensure you have [Node.js version 18](https://nodejs.org/en/download) or higher installed.
 

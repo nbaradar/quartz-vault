@@ -3,6 +3,12 @@ title: Godels Incompleteness Thereom
 draft: 
 tags:
   - thought
+created: 2025-06-28
+
+modified: 2025-06-28
+
+published: 2025-06-28
+
 ---
 TL;DR: Within axiomatic systems, `TRUE` statements can be `provable` or `unprovable`. 
 

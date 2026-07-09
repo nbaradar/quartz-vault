@@ -3,6 +3,12 @@ title: Elon Musk
 tags:
   - notable_people
   - concept
+created: 2025-06-19
+
+modified: 2025-07-05
+
+published: 2025-06-19
+
 ---
 
 ![[Pasted image 20250619221910.png|400]]

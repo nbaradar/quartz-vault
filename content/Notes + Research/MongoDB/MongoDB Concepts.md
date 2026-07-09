@@ -2,6 +2,12 @@
 title: MongoDB Concepts
 tags:
   - reference
+created: 2025-06-29
+
+modified: 2025-07-05
+
+published: 2025-06-29
+
 ---
 >[!note]
 >[MongoDB Fundamentals](https://www.mongodb.com/docs/manual/faq/fundamentals/#faq--mongodb-fundamentals)

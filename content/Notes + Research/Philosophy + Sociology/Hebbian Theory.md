@@ -3,6 +3,11 @@ title: Hebbian Theory
 draft: false
 tags:
   - thought
+created: 2026-01-08
+
+modified: 2026-06-19
+published: 2026-01-08
+
 ---
 https://en.wikipedia.org/wiki/Hebbian_theory
 

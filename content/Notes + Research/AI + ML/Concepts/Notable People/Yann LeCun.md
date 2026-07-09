@@ -3,6 +3,12 @@ title: Yann LeCun
 tags:
   - notable_people
   - concept
+created: 2025-07-05
+
+modified: 2026-06-20
+
+published: 2025-07-05
+
 ---
 ![[Pasted image 20250705124658.png|400]]
 

@@ -5,6 +5,12 @@ tags:
   - gemini
   - reference
 draft:
+created: 2025-11-27
+
+modified: 2025-11-27
+
+published: 2025-11-27
+
 ---
 >[!tip] Get $300 in free credits!
 >If you sign up for a new account, and link your credit card, you will get $300 in GCP credits that are valid for 90 days

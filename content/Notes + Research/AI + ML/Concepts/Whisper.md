@@ -5,6 +5,11 @@ tags:
   - ai/ml
   - concept
   - model
+created: 2026-06-30
+
+modified: 2026-06-30
+published: 2026-06-30
+
 ---
 >[!example] Links
 >https://openai.com/index/whisper/

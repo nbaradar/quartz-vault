@@ -4,6 +4,11 @@ tags:
   - reference
   - ai/ml
   - amazon
+created: 2025-07-16
+
+modified: 2025-08-24
+published: 2025-07-16
+
 ---
 >[!info]- Relevant Links 
 >- [Website/Download](https://kiro.dev/)

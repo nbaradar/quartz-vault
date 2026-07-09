@@ -6,6 +6,12 @@ tags:
 - projects
 - project
 title: ContextCore
+created: 2025-06-16
+
+modified: 2025-11-01
+
+published: 2025-06-16
+
 ---
 
 # ContextCore

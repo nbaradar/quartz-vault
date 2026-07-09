@@ -5,6 +5,11 @@ tags:
   - concept
   - model
 draft:
+created: 2026-06-20
+
+modified: 2026-06-20
+published: 2026-06-20
+
 ---
 ![[Pasted image 20260619222140.png|500]]
 

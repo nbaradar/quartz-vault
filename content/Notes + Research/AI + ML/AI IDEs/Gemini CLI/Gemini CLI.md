@@ -6,6 +6,12 @@ tags:
   - ai/ml
   - reference
 draft:
+created: 2025-06-28
+
+modified: 2026-02-23
+
+published: 2025-06-28
+
 ---
 >[!info]- Relevant Links 
 >- [Announcement Blog](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)

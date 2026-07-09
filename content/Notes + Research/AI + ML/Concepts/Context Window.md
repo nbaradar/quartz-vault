@@ -4,6 +4,11 @@ tags:
   - concept
   - ai/ml
 draft:
+created: 2025-10-27
+
+modified: 2025-10-27
+published: 2025-10-27
+
 ---
 >[!note] [Coursera: What is a Context Window](https://www.coursera.org/articles/context-window)
 

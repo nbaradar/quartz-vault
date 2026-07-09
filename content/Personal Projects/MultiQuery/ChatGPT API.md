@@ -6,6 +6,12 @@ tags:
   - openai
   - contextcore
 draft:
+created: 2025-06-29
+
+modified: 2025-06-29
+
+published: 2025-06-29
+
 ---
 If you want to use ChatGPT 1.0 and higher for python, you have to [follow this documentation](https://github.com/openai/openai-python)
 

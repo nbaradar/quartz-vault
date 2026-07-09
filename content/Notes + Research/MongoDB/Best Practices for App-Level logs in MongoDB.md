@@ -4,6 +4,12 @@ tags:
   - mongodb
   - reference
 draft:
+created: 2025-07-05
+
+modified: 2025-07-05
+
+published: 2025-07-05
+
 ---
 ### **Keep logs structured** — every log is a _typed event_
 - Use an `event_type` field with enums like:

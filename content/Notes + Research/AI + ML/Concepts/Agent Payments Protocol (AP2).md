@@ -6,6 +6,11 @@ tags:
   - agents
   - ai/ml
 draft:
+created: 2025-09-19
+
+modified: 2025-09-19
+published: 2025-09-19
+
 ---
 AP2 is an open protocol developed with leading payments and technology companies to securely initiate and transact agent-led payments across platforms. The protocol can be used as an extension of the [[Agent2Agent (A2A) Protocol]] and [[Model Context Protocol]]. In concert with industry rules and standards, it establishes a payment-agnostic framework for users, merchants, and payments providers to transact with confidence across all types of payment methods.
 
