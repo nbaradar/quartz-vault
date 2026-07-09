@@ -2,13 +2,10 @@
 tit: Anattā
 tags:
   - thought
-draft:
+draft: true
 created: 2025-06-28
-
 modified: 2025-06-29
-
 published: 2025-06-28
-
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Anatt%C4%81)

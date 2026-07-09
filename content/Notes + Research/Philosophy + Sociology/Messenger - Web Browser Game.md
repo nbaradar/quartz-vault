@@ -3,12 +3,10 @@ title: Messenger - Web Browser Game
 tags:
   - thought
   - gaming
-draft:
+draft: true
 created: 2026-06-19
-
 modified: 2026-06-19
 published: 2026-06-19
-
 ---
 
 
