@@ -82,7 +82,6 @@ The script should be structured so future frontmatter functionality can be added
 
 Use small rule classes or similar units for field-specific logic, so later rules can be added for:
 
-- tags
 - aliases
 - note type
 - status
@@ -106,5 +105,22 @@ python devtools/frontmatter_audit.py --dry-run
 python devtools/frontmatter_audit.py --source git
 python devtools/frontmatter_audit.py --source filesystem
 python devtools/frontmatter_audit.py --fields created modified
+python devtools/frontmatter_audit.py --mode tags
 python devtools/frontmatter_audit.py --content-dir content
 ```
+
+## Tag Audit Mode
+
+Implemented as a read-only baseline validation:
+
+```bash
+python devtools/frontmatter_audit.py --mode tags
+```
+
+This scans Markdown files under the selected content directory and reports
+files whose frontmatter `tags` field does not contain at least one required PKM
+tag: `#concept`, `#study`, `#lab`, `#thought`, `#reference`, `#guide`,
+`#signal`, or `#meta`.
+
+It also reports Markdown files under `content/Personal Projects` whose
+frontmatter `tags` field does not contain `#project`.

@@ -19,6 +19,9 @@ from typing import Iterable
 
 
 TARGET_FIELDS = ("created", "modified", "published")
+REQUIRED_TAGS = ("concept", "study", "lab", "thought", "reference", "guide", "signal", "meta")
+PROJECT_TAG = "project"
+PROJECT_TAG_CONTENT_DIR = Path("content/Personal Projects")
 DATE_FORMAT = "%Y-%m-%d"
 FRONTMATTER_DELIMITER = "---"
 
@@ -52,6 +55,14 @@ class AuditReport:
     fields_populated: dict[str, int] = field(default_factory=lambda: {name: 0 for name in TARGET_FIELDS})
     conflicts: list[Conflict] = field(default_factory=list)
     resolved_conflicts: list[Conflict] = field(default_factory=list)
+    errors: list[str] = field(default_factory=list)
+
+
+@dataclass
+class TagAuditReport:
+    scanned: int = 0
+    missing_required_tag: list[Path] = field(default_factory=list)
+    missing_project_tag: list[Path] = field(default_factory=list)
     errors: list[str] = field(default_factory=list)
 
 
@@ -232,6 +243,25 @@ class FrontmatterDocument:
             return None
         _, parsed = match
         return parsed.strip().strip("'\"")
+
+    def get_list_values(self, key: str) -> list[str]:
+        match = self._find_key_line(key)
+        if match is None:
+            return []
+
+        line_index, inline_value = match
+        values = parse_frontmatter_values(inline_value)
+        for index in range(line_index + 1, self.fm_end):
+            line = self.lines[index]
+            if not line.strip():
+                continue
+            if re.match(r"^\S[^:]*:\s*", line):
+                break
+            item_match = re.match(r"^\s*-\s*(.+?)\s*$", line)
+            if item_match:
+                values.extend(parse_frontmatter_values(item_match.group(1)))
+
+        return values
 
     def set(self, key: str, value: str) -> str:
         if not self.has_frontmatter:
@@ -416,6 +446,66 @@ class FrontmatterAuditor:
         return path.relative_to(self.repo_root)
 
 
+class TagAuditor:
+    def __init__(
+        self,
+        repo_root: Path,
+        content_dir: Path,
+        required_tags: Iterable[str],
+        project_tag_dir: Path,
+        project_tag: str,
+        verbose: bool,
+    ) -> None:
+        self.repo_root = repo_root
+        self.content_dir = content_dir
+        self.required_tags = {normalize_tag(tag) for tag in required_tags}
+        self.project_tag_dir = (repo_root / project_tag_dir).resolve()
+        self.project_tag = normalize_tag(project_tag)
+        self.verbose = verbose
+        self.report = TagAuditReport()
+
+    def run(self) -> TagAuditReport:
+        for path in self.iter_markdown_files():
+            self.report.scanned += 1
+            rel = self.relative(path)
+            try:
+                text = path.read_text(encoding="utf-8")
+                document = FrontmatterDocument(path, text)
+                tags = {normalize_tag(tag) for tag in document.get_list_values("tags")}
+                has_required_tag = bool(tags & self.required_tags)
+                has_project_tag = self.project_tag in tags
+                needs_project_tag = path.is_relative_to(self.project_tag_dir)
+            except Exception as exc:
+                message = f"{rel}: {exc}"
+                self.report.errors.append(message)
+                print(f"[error] {message}")
+                continue
+
+            file_has_issue = False
+
+            if not has_required_tag:
+                file_has_issue = True
+                self.report.missing_required_tag.append(path)
+                print(f"[missing] {rel}: no required tag in frontmatter tags")
+
+            if needs_project_tag and not has_project_tag:
+                file_has_issue = True
+                self.report.missing_project_tag.append(path)
+                print(f"[missing] {rel}: file under {PROJECT_TAG_CONTENT_DIR} without #{self.project_tag}")
+
+            if not file_has_issue and self.verbose:
+                matched = sorted(tags & self.required_tags)
+                print(f"[ok] {rel}: required tag found: {format_tags(matched)}")
+
+        return self.report
+
+    def iter_markdown_files(self) -> Iterable[Path]:
+        return sorted(self.content_dir.rglob("*.md"))
+
+    def relative(self, path: Path) -> Path:
+        return path.relative_to(self.repo_root)
+
+
 def format_date(value: datetime) -> str:
     return value.strftime(DATE_FORMAT)
 
@@ -439,6 +529,28 @@ def normalize_date(value: str) -> str:
             continue
 
     return stripped
+
+
+def parse_frontmatter_values(raw: str) -> list[str]:
+    value = raw.strip()
+    if not value:
+        return []
+
+    if value.startswith("[") and value.endswith("]"):
+        value = value[1:-1]
+        pieces = value.split(",")
+    else:
+        pieces = [value]
+
+    return [piece.strip().strip("'\"") for piece in pieces if piece.strip()]
+
+
+def normalize_tag(value: str) -> str:
+    return value.strip().strip("'\"").removeprefix("#").lower()
+
+
+def format_tags(tags: Iterable[str]) -> str:
+    return ", ".join(f"#{tag}" for tag in tags)
 
 
 def parse_selection(raw: str, max_number: int) -> set[int]:
@@ -516,6 +628,30 @@ def print_summary(report: AuditReport) -> None:
             print(f"- {error}")
 
 
+def print_tag_summary(repo_root: Path, report: TagAuditReport) -> None:
+    print("\nTag Audit Summary")
+    print(f"Files scanned: {report.scanned}")
+    print(f"Files missing required tag: {len(report.missing_required_tag)}")
+    print(f"Personal Projects files missing #project: {len(report.missing_project_tag)}")
+    print(f"Required tags: {format_tags(REQUIRED_TAGS)}")
+    print(f"Errors: {len(report.errors)}")
+
+    if report.missing_required_tag:
+        print("\nFiles missing a required tag:")
+        for path in report.missing_required_tag:
+            print(f"- {path.relative_to(repo_root)}")
+
+    if report.missing_project_tag:
+        print("\nPersonal Projects files missing #project:")
+        for path in report.missing_project_tag:
+            print(f"- {path.relative_to(repo_root)}")
+
+    if report.errors:
+        print("\nErrors:")
+        for error in report.errors:
+            print(f"- {error}")
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
@@ -527,6 +663,7 @@ def parse_args() -> argparse.Namespace:
   python devtools/frontmatter_audit.py
   python devtools/frontmatter_audit.py --dry-run
   python devtools/frontmatter_audit.py --dry-run --no-prompt
+  python devtools/frontmatter_audit.py --mode tags
   python devtools/frontmatter_audit.py --fields created modified
   python devtools/frontmatter_audit.py --content-dir content/News
   python devtools/frontmatter_audit.py --source filesystem
@@ -553,7 +690,21 @@ Notes:
   optionally overwrite only the conflicts you select. At the conflict prompt,
   enter A to overwrite all conflicts, N to skip, or a comma/space separated
   list of conflict numbers.
+
+  With --mode tags, the script scans frontmatter tags and reports files that
+  do not contain at least one required PKM tag. It also reports Markdown files
+  under content/Personal Projects that do not contain #project. This mode is
+  read-only.
 """,
+    )
+    parser.add_argument(
+        "--mode",
+        choices=("dates", "tags"),
+        default="dates",
+        help=(
+            "Audit mode. 'dates' populates created/modified/published metadata. "
+            "'tags' reports files missing required PKM tags. Default: dates"
+        ),
     )
     parser.add_argument(
         "--content-dir",
@@ -610,6 +761,25 @@ def main() -> int:
     if not content_dir.exists():
         print(f"[error] content directory does not exist: {content_dir}", file=sys.stderr)
         return 1
+
+    if args.mode == "tags":
+        print("Frontmatter tag audit starting in read-only mode")
+        print(f"Repo root: {repo_root}")
+        print(f"Content dir: {content_dir.relative_to(repo_root)}")
+        print(f"Required tags: {format_tags(REQUIRED_TAGS)}")
+
+        auditor = TagAuditor(
+            repo_root=repo_root,
+            content_dir=content_dir,
+            required_tags=REQUIRED_TAGS,
+            project_tag_dir=PROJECT_TAG_CONTENT_DIR,
+            project_tag=PROJECT_TAG,
+            verbose=args.verbose,
+        )
+        report = auditor.run()
+        print_tag_summary(repo_root, report)
+        has_findings = bool(report.missing_required_tag or report.missing_project_tag)
+        return 0 if not report.errors and not has_findings else 1
 
     rules = build_rules(args.fields)
     mode = "dry run" if args.dry_run else "write"

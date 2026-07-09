@@ -4,13 +4,29 @@ This file is for future coding agents maintaining `devtools/frontmatter_audit.py
 
 ## Purpose
 
-`frontmatter_audit.py` audits Markdown files in this Quartz vault and populates date frontmatter:
+`frontmatter_audit.py` audits Markdown files in this Quartz vault. Its default
+mode populates date frontmatter:
 
 - `created`
 - `modified`
 - `published`
 
 It is meant to help normalize PKM note metadata without blindly overwriting existing frontmatter.
+
+It also has a read-only tag audit mode that reports Markdown files whose
+frontmatter `tags` field does not contain at least one required PKM tag:
+
+- `#concept`
+- `#study`
+- `#lab`
+- `#thought`
+- `#reference`
+- `#guide`
+- `#signal`
+- `#meta`
+
+Tag audit mode also reports Markdown files under `content/Personal Projects`
+whose frontmatter `tags` field does not contain `#project`.
 
 ## Repo Context
 
@@ -94,6 +110,12 @@ Focused preview:
 python3 devtools/frontmatter_audit.py --dry-run --no-prompt --content-dir content/News
 ```
 
+Required tag audit:
+
+```bash
+python3 devtools/frontmatter_audit.py --mode tags
+```
+
 Audit only some fields:
 
 ```bash
@@ -109,6 +131,7 @@ Important classes/functions:
 - `CreatedRule`, `ModifiedRule`, `PublishedRule`: current date field rules.
 - `FrontmatterDocument`: minimal frontmatter parser/writer.
 - `FrontmatterAuditor`: first pass, conflict collection, conflict resolution.
+- `TagAuditor`: read-only validation that each file has at least one required PKM tag, plus directory-specific tag checks.
 - `parse_selection`: parses conflict prompt input.
 - `parse_args`: CLI flags and help text.
 
@@ -117,14 +140,17 @@ Preferred extension path:
 1. Add a new `FieldRule` subclass.
 2. Register it in `build_rules`.
 3. Add the field to CLI choices if it should be selectable.
-4. Update `--help`, the plan doc, and this agent guide.
-5. Add a dry-run verification command to the final response.
+4. If adding non-date validation, prefer a separate `--mode` path.
+5. Update `--help`, the plan doc, and this agent guide.
+6. Add a dry-run or read-only verification command to the final response.
 
 ## Editing Notes
 
 - Prefer standard library only unless the user explicitly approves a dependency.
 - Preserve existing Markdown body content exactly.
 - Be careful with YAML complexity. `FrontmatterDocument` intentionally handles simple top-level `key: value` fields, not full YAML round-tripping.
+- Tag audit recognizes simple inline values and multiline YAML list values for `tags`, normalizing optional leading `#`.
+- `content/Personal Projects` files are expected to include `#project` in addition to the baseline required-tag logic.
 - If adding richer YAML support later, prefer `ruamel.yaml` for formatting preservation, but document the new dependency.
 - Do not revert user content changes in `content/`.
 - Avoid hardcoded absolute paths. Resolve from `Path(__file__).resolve().parents[1]`.
@@ -135,4 +161,3 @@ Preferred extension path:
 - `--follow` helps with renames but is not perfect for complex file history.
 - Files not tracked by Git use filesystem fallback dates.
 - The parser does not support complex nested YAML edits.
-
