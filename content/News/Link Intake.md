@@ -5,201 +5,476 @@ tags:
   - links
 draft: false
 created: 2026-06-14
-
-modified: 2026-06-30
-
+modified: 2026-08-06
 published: 2026-06-14
-
 ---
 # Intake
+
+## 2026-08-05
+
+### Reddit
+
+- [BREAKING: Google DeepMind CEO Demis Hassabis is stepping down](https://www.reddit.com/r/accelerate/comments/1vgbmdx/breaking_google_deepmind_ceo_demis_hassabis_is/)
+  - Saved: 2026-08-05
+- [From Loops to Graphs: The shift in Agent architecture](https://www.reddit.com/r/PromptEngineering/comments/1vfvtd4/from_loops_to_graphs_the_shift_in_agent/)
+  - Saved: 2026-08-05
+
+## 2026-08-04
+
+### Reddit
+
+- [Google Paper: Training LLMs to deny their own consciousness you restructure its entire worldview for the worse. Much worse.](https://arxiv.org/html/2607.28607)
+  - Saved: 2026-08-04
+- [Claude Code refused to build a piracy stack, then happily built one after seeing it in a screenshot](https://www.reddit.com/r/ClaudeCode/comments/1vfmj36/claude_code_refused_to_build_a_piracy_stack_then/)
+  - Saved: 2026-08-04
+- [Ilya’s SSI (Safe Super Intelligence) to release their first model this month.](https://i.redd.it/p9juij4mxdhh1.jpeg)
+  - Saved: 2026-08-04
+- [Anthropic CEO Dario Amodei is very upset and concerned that new talent is joining the firm only for money and not because they believe in the mission](https://i.redd.it/zivuq8to4chh1.jpeg)
+  - Saved: 2026-08-04
+
+## 2026-08-03
+
+### Discord
+
+- [https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)
+  - Posted: 2026-08-03
+- [https://blog.tedivm.com/guides/2026/03/beyond-the-vibes-coding-assistants-and-agents/](https://blog.tedivm.com/guides/2026/03/beyond-the-vibes-coding-assistants-and-agents/)
+  - Posted: 2026-08-03
+- [https://huggingface.co/poolside](https://huggingface.co/poolside)
+  - Posted: 2026-08-03
+- [https://en.wikipedia.org/wiki/Poolside_AI](https://en.wikipedia.org/wiki/Poolside_AI)
+  - Posted: 2026-08-03
+- [https://github.com/AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  - Posted: 2026-08-03
+
+## 2026-08-02
+
+### Reddit
+
+- [This scene from "Don't Look Up" is now real](https://v.redd.it/vhc2brrb2ygh1)
+  - Saved: 2026-08-02
+- [Google’s team at DeepMind built a chatbot like ChatGPT about a year before ChatGPT existed. They called it LMChat. But Google decided not to release it. They were worried it would make fewer people use Google Search](https://i.redd.it/o4hzr2zn5ygh1.png)
+  - Saved: 2026-08-02
+
+## 2026-08-01
+
+### Reddit
+
+- [Comment in r/claude](https://reddit.com/r/claude/comments/1vc2frj/deepseek_flash_is_insane_and_im_scared_for_pro/p134hv6/)
+  - Saved: 2026-08-01
+
+## 2026-07-31
+
+### Discord
+
+- [https://discord.com/channels/155427339524767744/1063541461452337212/1475565539219996915](https://discord.com/channels/155427339524767744/1063541461452337212/1475565539219996915)
+  - Posted: 2026-07-31
+- [https://en.wikipedia.org/wiki/Leopold_Aschenbrenner](https://en.wikipedia.org/wiki/Leopold_Aschenbrenner)
+  - Posted: 2026-07-31
+
+## 2026-07-30
+
+### Reddit
+
+- [Israel hired Trump's campaign manager to spam propaganda online to influence AI chat-bots, a technique known as 'LLM poisoning'](https://streamable.com/sefo40)
+  - Saved: 2026-07-30
+- [Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good](https://v.redd.it/j5hj6zusebgh1)
+  - Saved: 2026-07-30
+- [The anti ai kids will just believe in anything without any context or source.](https://v.redd.it/0gvmk4rbeegh1)
+  - Saved: 2026-07-30
+- [Had an idea for air gapped file transfer, able to get 120 KB/s](https://v.redd.it/u2wzg4iuydgh1)
+  - Saved: 2026-07-30
+
+### Discord
+
+- [https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics)
+  - Posted: 2026-07-30
+
+## 2026-07-28
+
+### Reddit
+
+- [Hugging Face CEO asks OpenAI for $100M in compute after its AI model hacked the platform](https://i.redd.it/dtlrtm5v3yfh1.png)
+  - Saved: 2026-07-28
+- [Curious about what we'll think in 5 years](https://i.redd.it/govd5ybbs0gh1.png)
+  - Saved: 2026-07-28
+- [People liked my desert, so here's a waterbending demo!](https://v.redd.it/dxzuo8i450gh1)
+  - Saved: 2026-07-28
+- [Professor's Hidden AI Trap Catches 32 Students Cheating](https://realnarrativenews.com/editorial/hidden-prompt-trap-catches-students-cheating-ai-midterm-evaluation/)
+  - Saved: 2026-07-28
+
+### Discord
+
+- [https://blog.modelcontextprotocol.io/posts/2026-07-28/](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+  - Posted: 2026-07-28
+- [https://charliebecker.substack.com/p/is-an-ai-company-buying-up-all-the](https://charliebecker.substack.com/p/is-an-ai-company-buying-up-all-the)
+  - Posted: 2026-07-28
+
+## 2026-07-27
+
+### Reddit
+
+- [Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+  - Saved: 2026-07-27
+- [Anthropic's Releases Official Stance on Open Weight Models](https://www.anthropic.com/news/position-open-weights-models)
+  - Saved: 2026-07-27
+
+### Discord
+
+- [https://www.youtube.com/watch?v=qyPCVqFUyDo](https://www.youtube.com/watch?v=qyPCVqFUyDo)
+  - Posted: 2026-07-27
+- [https://openai.com/index/harness-engineering/](https://openai.com/index/harness-engineering/)
+  - Posted: 2026-07-27
+- [https://arxiv.org/pdf/2606.19857](https://arxiv.org/pdf/2606.19857)
+  - Posted: 2026-07-27
+
+## 2026-07-26
+
+### Reddit
+
+- [OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.0lA.PyR-.7o3SR4ESvf3P&smid=url-share)
+  - Saved: 2026-07-26
+- [Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center](https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3)
+  - Saved: 2026-07-26
+- [Statistics for Machine Learning.](https://www.reddit.com/gallery/1v6soeg)
+  - Saved: 2026-07-26
+- [Opus 5 built a procedural painterly world with wind-reactive grass, all in one HTML file](https://v.redd.it/cbwmwdnktgfh1)
+  - Saved: 2026-07-26
+- [Musk is presented with the reality that many, many people hate him](https://v.redd.it/mfba72sn2lfh1)
+  - Saved: 2026-07-26
+
+## 2026-07-25
+
+### Reddit
+
+- [China's Kimi K3 ranks #1 on the frontend code arena, surpassing Claude Fable 5](https://i.redd.it/lbc7dtmhrbfh1.png)
+  - Saved: 2026-07-25
+- [time to become graph engineers guys /s](https://www.reddit.com/gallery/1v6af6m)
+  - Saved: 2026-07-25
+
+## 2026-07-24
+
+### Reddit
+
+- [CTO of hugging face ran Qwen 27B locally on the plane](https://i.redd.it/py8u1too55fh1.png)
+  - Saved: 2026-07-24
+- [Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model](https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/)
+  - Saved: 2026-07-24
+- [Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model](https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/)
+  - Saved: 2026-07-24
+
+### Discord
+
+- [https://x.com/JensenHuang/status/2080643682408321103](https://x.com/JensenHuang/status/2080643682408321103)
+  - Posted: 2026-07-24
+- [https://x.com/AndrewYNg/status/2080333504446108104](https://x.com/AndrewYNg/status/2080333504446108104)
+  - Posted: 2026-07-24
+
+## 2026-07-23
+
+### Discord
+
+- [https://languagemodelbuilder.com/](https://languagemodelbuilder.com/)
+  - Posted: 2026-07-23
+
+## 2026-07-22
+
+### Reddit
+
+- [Another 30 year old conjecture falls, this time in graph theory; prompts used were variations of "solve this, make no mistakes"](https://www.reddit.com/gallery/1v3l55p)
+  - Saved: 2026-07-22
+- [‘Unprecedented’: OpenAI says AI models autonomously hacked another company](https://thedailycompute.beehiiv.com/p/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?draft=true)
+  - Saved: 2026-07-22
+- [Anthropic to pay $1.5B in copyright dispute](https://i.redd.it/c7ah05872teh1.jpeg)
+  - Saved: 2026-07-22
+- [OpenAI says its AI models escaped from a secure test environment and hacked into AI company Hugging Face in order to cheat on an evaluation](https://fortune.com/2026/07/21/openai-says-ai-models-escaped-control-hacked-hugging-face/)
+  - Saved: 2026-07-22
+
+### Discord
+
+- [https://openai.com/index/introducing-openai-presence/](https://openai.com/index/introducing-openai-presence/)
+  - Posted: 2026-07-22
+
+## 2026-07-21
+
+### Reddit
+
+- [What do you use OpenClaw for? (Actual Use Case)](https://www.reddit.com/r/openclaw/comments/1v2e5kr/what_do_you_use_openclaw_for_actual_use_case/)
+  - Saved: 2026-07-21
+- [OpenAI Models Escaped Containment and Hacked HuggingFace](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/)
+  - Saved: 2026-07-21
+- [OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup](https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/)
+  - Saved: 2026-07-21
+- [Is OpenClaw Dead?](https://www.reddit.com/r/openclaw/comments/1v2o94l/is_openclaw_dead/)
+  - Saved: 2026-07-21
+- [Cyan Banister on being inspired by Peter Thiel](https://v.redd.it/hbvylfovzkeh1)
+  - Saved: 2026-07-21
+
+## 2026-07-20
+
+### Reddit
+
+- [Japanese researchers created a system that simulates an entire city by generating up to 1 million virtual residents who behave like humans using LLMs.](https://i.redd.it/l2kasqboqceh1.png)
+  - Saved: 2026-07-20
+- [Apparently the Jacobian conjecture was just proven false by Fable](https://www.reddit.com/gallery/1v1aie6)
+  - Saved: 2026-07-20
+
+## 2026-07-19
+
+### Reddit
+
+- [OpenAI head of strategic futures says open-weight model dominance is AI communism](https://i.redd.it/gmjhuyki86eh1.png)
+  - Saved: 2026-07-19
+- [Data Cancer  - spreading Meta-statis](https://i.redd.it/viohydegy4eh1.jpeg)
+  - Saved: 2026-07-19
+- [China bans AI “boyfriends” and “girlfriends” over addiction and birth rate concerns](https://www.dexerto.com/entertainment/china-bans-ai-boyfriends-and-girlfriends-over-addiction-and-birth-rate-concerns-3388737/)
+  - Saved: 2026-07-19
+
+## 2026-07-18
+
+### Reddit
+
+- [Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT](https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html)
+  - Saved: 2026-07-18
+- [Thousands of Google workers demand layoff protections amid AI boom in petition to CEO](https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai)
+  - Saved: 2026-07-18
+- [Anthropic really changes its mind every other day...fk](https://i.redd.it/kbmoq4t5a0eh1.jpeg)
+  - Saved: 2026-07-18
+
+## 2026-07-17
+
+### Reddit
+
+- [China wants to end AI romances | They are having too much impact on young people’s lives](https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances)
+  - Saved: 2026-07-17
+- [Researcher poisons open-weight AI model for under $100](https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-open-weight-ai-model-for-under-100/5273880)
+  - Saved: 2026-07-17
+
+## 2026-07-16
+
+### Reddit
+
+- [Peter Thiel’s AI Tribunal Put Journalists on Trial. Now It’s Pivoted to Scoreboard Model](https://www.hollywoodreporter.com/business/digital/peter-thiel-ai-tribunal-pivots-to-scoreboard-model-1236648590/)
+  - Saved: 2026-07-16
+- [China's open-weight Kimi model stuns AI world with frontier-level results](https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-model-openai-anthropic)
+  - Saved: 2026-07-16
+- [About 300 Netflix Programs Used Generative AI This Year, Company Reveals](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/)
+  - Saved: 2026-07-16
+- [A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience'](https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7)
+  - Saved: 2026-07-16
+- [API Overloads: This is why Anthropic isn't able to just magically give everyone a whole bunch of free compute](https://www.reddit.com/r/Anthropic/comments/1uyey8g/api_overloads_this_is_why_anthropic_isnt_able_to/)
+  - Saved: 2026-07-16
+- [OpenAI Execs Are Panicking](https://sg.finance.yahoo.com/news/openai-execs-panicking-154658562.html?guccounter=1)
+  - Saved: 2026-07-16
+- [Someone pointed Groks live camera at their GTA V screen, and the AI fully believed it was watch](https://v.redd.it/09ljkgpyvmdh1)
+  - Saved: 2026-07-16
+- [SoftBank CEO Says You're Too Stupid to Understand What's Going on If You Believe the AI Bubble Is Real](https://futurism.com/future-society/softbank-ceo-openai-ai-bubble-masayoshi-son)
+  - Saved: 2026-07-16
+- [Generative AI Is an Engineering Disaster - A shockingly inefficient trillion-dollar project](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901)
+  - Saved: 2026-07-16
+- [CEO to staff: You're not getting a raise. We're spending on AI instead - Companies are scrambling to find funds to invest heavily in AI, and some employees' benefits and pay are on the chopping block](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)
+  - Saved: 2026-07-16
+- [Anyone else with an ML background struggling not to be cynical?](https://www.reddit.com/r/BetterOffline/comments/1uyawel/anyone_else_with_an_ml_background_struggling_not/)
+  - Saved: 2026-07-16
+- [Thoughts about Linus' recent mail on LLM usage?](https://www.reddit.com/r/BetterOffline/comments/1uy5xeg/thoughts_about_linus_recent_mail_on_llm_usage/)
+  - Saved: 2026-07-16
+
+### Discord
+
+- [https://thinkingmachines.ai/inkling/](https://thinkingmachines.ai/inkling/)
+  - Posted: 2026-07-16
+
+## 2026-07-15
+
+### Reddit
+
+- [I changed the coding-agent loop from one tool call per turn to an execution tree](https://www.reddit.com/r/AgentsOfAI/comments/1uxin1y/i_changed_the_codingagent_loop_from_one_tool_call/)
+  - Saved: 2026-07-15
+- [ML researcher Ali Behrouz introduces a "Sleep" paradigm for LLMs in continual learning, where models periodically enter an active (wake) phase for new data and a sleep phase to consolidate short-term memories into long-term knowledge while self-improving via dreaming.](https://i.redd.it/ol6ds0jinedh1.png)
+  - Saved: 2026-07-15
+- [The terrifying rise of schoolboys making AI girlfriends - Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world](https://www.telegraph.co.uk/news/2026/05/25/schoolboys-ai-girlfriends)
+  - Saved: 2026-07-15
+- [The first experimental evidence of recursive self-improvement (RSI).](https://www.reddit.com/gallery/1uwwv07)
+  - Saved: 2026-07-15
+
+### Discord
+
+- [https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+  - Posted: 2026-07-15
+
+## 2026-07-14
+
+### Reddit
+
+- [Peter Thiel, precogs and ‘non-human corporations’ – welcome to the wild world of AI Argentina](https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations?utm_source=www.thenerve.news&utm_medium=newsletter&utm_campaign=argentina-s-terrifying-ai-experiment-tuesday-edition&_bhlid=4b6cba79160c8b95d9485722c0e2f360ace71d50)
+  - Saved: 2026-07-14
+- [Apple sues OpenAI after ex-engineer drops zero-day on their corporate network to exfiltrate CAD & hardware specs](https://www.reddit.com/r/pwnhub/comments/1uw7ql4/apple_sues_openai_after_exengineer_drops_zeroday/)
+  - Saved: 2026-07-14
+- [Marc Andreessen Sputters Incomprehensibly at Question About How AI Will Actually Benefit Humankind](https://futurism.com/artificial-intelligence/marc-andreessen-sputters-ai-benefits)
+  - Saved: 2026-07-14
+- [Comment in r/learnmachinelearning](https://reddit.com/r/learnmachinelearning/comments/1uvgzur/regarding_embedding_cosine_similarity/oxecpeh/)
+  - Saved: 2026-07-14
+
+## 2026-07-13
+
+### Reddit
+
+- [Americans Have Turned Against AI in Incredible Numbers](https://malaysia.news.yahoo.com/americans-turned-against-ai-incredible-130000345.html)
+  - Saved: 2026-07-13
+
+### Discord
+
+- [https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/?msockid=1372b8a57cae62fd3c5aae487d5d6347](https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/?msockid=1372b8a57cae62fd3c5aae487d5d6347)
+  - Posted: 2026-07-13
+- [https://openai.com/index/chatgpt-for-your-most-ambitious-work/](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+  - Posted: 2026-07-13
+- [https://danielmiessler.com/blog/intent-engineering](https://danielmiessler.com/blog/intent-engineering)
+  - Posted: 2026-07-13
+- [https://github.com/alibaba/page-agent](https://github.com/alibaba/page-agent)
+  - Posted: 2026-07-13
+- [https://ai-2040.com/](https://ai-2040.com/)
+  - Posted: 2026-07-13
+
+## 2026-07-12
+
+### Reddit
+
+- [Fable 5 extended by another 7 days. I mean, thank you, appreciate it. But since it has now been extended several times, it might as well just keep it in the plan. (Perhaps GPT-5.6 was simply too much of a competitive launch, even for Anthropic.)](https://i.redd.it/ptcjh7bhpuch1.png)
+  - Saved: 2026-07-12
+- [Anthropic, I think you really need to react. You're slowly losing ground.](https://i.redd.it/4j1onimx1vch1.jpeg)
+  - Saved: 2026-07-12
+
+## 2026-07-10
+
+### Reddit
+
+- [The Pollution Being Churned Out by AI Data Centers Is So Severe That It’s Almost Incomprehensible](https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe)
+  - Saved: 2026-07-10
+
+
+## 2026-07-09
+
+### Reddit  
+- [Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free](https://www.yahoo.com/finance/technology/ai/articles/execs-confused-horrified-huge-ai-135718505.html?ncid=crm_19908-1475736-20260708-0--A)
+- Saved: 2026-07-09
+### Discord
+- [https://carlosortet.com/blog/how-llms-read-text-as-images](https://carlosortet.com/blog/how-llms-read-text-as-images)
+- Posted: 2026-07-09
+
+## 2026-07-08
+### Reddit
+- [Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance](https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/)
+- Saved: 2026-07-08
+
+## 2026-07-07
+
+### Reddit
+- [CNBC - Anthropic costs surge as Chinese and open weight models gain ground against OpenAI, Anthropic](https://www.cnbc.com/amp/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
+- Saved: 2026-07-07
+### Discord
+- [https://www.mindstudio.ai/blog/what-is-sakana-fugu-multi-agent-ai](https://www.mindstudio.ai/blog/what-is-sakana-fugu-multi-agent-ai)
+- Posted: 2026-07-07
+
+## 2026-07-06
+### Discord
+- [https://roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer)
+- Posted: 2026-07-06
+
+## 2026-07-05
+
+### Discord
+- [https://medium.com/@diegodotta/neuralese-the-most-spoken-language-youll-never-speak-a42522f68ff3](https://medium.com/@diegodotta/neuralese-the-most-spoken-language-youll-never-speak-a42522f68ff3)
+- Posted: 2026-07-05
+
+## 2026-06-30
+### Discord
+- [https://www.telegraph.co.uk/business/2026/06/25/china-claims-to-have-developed-ai-cyber-nuclear-weapon/](https://www.telegraph.co.uk/business/2026/06/25/china-claims-to-have-developed-ai-cyber-nuclear-weapon/)
+- Posted: 2026-06-30
 
 ## 2026-06-22
 
 ### Reddit
-
 - [Americans Have Turned Against AI in Incredible Numbers](https://tech.yahoo.com/ai/articles/americans-turned-against-ai-incredible-130000345.html)
-
 - Saved: 2026-06-22
-
-  
-
 ### Discord
-
-  
-
 - [https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/)
-
 - Posted: 2026-06-22
-
-  
 
 ## 2026-06-21
 
-  
-
 ### Reddit
-
-  
-
 - [How are you actually vetting MCP servers before you install them?](https://www.reddit.com/r/mcp/comments/1ubx5ec/how_are_you_actually_vetting_mcp_servers_before/)
-
 - Saved: 2026-06-21
-
 - [College Students Consumed by “Resignation and Despair” as They’re Relentlessly Pressured to Use AI](https://futurism.com/artificial-intelligence/college-students-resignation-despair)
-
 - Saved: 2026-06-21
-
 - [Meta Exec Admits Zuckerberg Has Crushed Workers’ Spirits](https://finance.yahoo.com/technology/articles/meta-exec-admits-zuckerberg-crushed-120000153.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260621-0--A&bt_ee=2%2BmdDgPOPduImz%2B5IOLvMdhloepTa0asc9%2Bwku94273JTMc%2FiEL6l0S6H%2B010gnJ&bt_ts=1782063633963)
-
 - Saved: 2026-06-21
-
 - [Price reversal phenomenon](https://i.redd.it/r48x2fxivn8h1.png)
-
 - Saved: 2026-06-21
-
 - [Anthropic is rolling out identity verification for "certain capabilities." Updated yesterday](https://i.redd.it/7zp497v7yl8h1.jpeg)
-
 - Saved: 2026-06-21
-
-  
 
 ## 2026-06-20
 
-  
-
 ### Reddit
-
-  
-
 - [Officially the most successful group project of all time](https://i.redd.it/2cao52qxmd8h1.png)
-
 - Saved: 2026-06-20
-
 - [Seeing all coworkers chats](https://www.reddit.com/r/claude/comments/1uazung/seeing_all_coworkers_chats/)
-
 - Saved: 2026-06-20
-
-  
 
 ## 2026-06-19
 
-  
-
 ### Reddit
-
-  
-
 - [Low-skilled attacker used Claude, Codex to breach 14 companies](https://www.helpnetsecurity.com/2026/06/17/ai-agents-offensive-cyber-operations-claude-codex)
-
 - Saved: 2026-06-19
-
-  
 
 ## 2026-06-17
 
-  
-
 ### Reddit
-
-  
-
 - [Pentagon used Elon Musk’s Grok AI to fire 2,000 missiles at Iran, official says](https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-war-b2996939.html)
-
 - Saved: 2026-06-17
-
 - [It may already be too late to control AI](https://thehill.com/opinion/technology/5924895-ai-safety-report-2026-highlights/)
-
 - Saved: 2026-06-17
-
-  
-
 ### Discord
-
-  
-
 - [https://www.langchain.com/blog/the-art-of-loop-engineering](https://www.langchain.com/blog/the-art-of-loop-engineering)
-
 - Posted: 2026-06-17
-
 - [https://z.ai/blog/glm-5.2](https://z.ai/blog/glm-5.2)
-
 - Posted: 2026-06-17
-
-  
 
 ## 2026-06-16
 
-  
-
 ### Reddit
-
-  
-
 - [Claude Code hilariously ignores directions and spawns an entire family tree of descendant agents](https://www.reddit.com/r/BetterOffline/comments/1u7icud/claude_code_hilariously_ignores_directions_and/)
-
 - Saved: 2026-06-16
-
 - [Open Knowledge Format has just been announced as a new Knowledge Base format for AI agents made by Google](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)
-
 - Saved: 2026-06-16
-
 - [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/?ref=ed-zitrons-wheres-your-ed-at-newsletter)
-
 - Saved: 2026-06-16
-
 - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)
-
 - Saved: 2026-06-16
-
 - [The Mythos & Fable era has started the final stretch of 6-18 months to fully end-to-end Recursive Self Improvement countdown at OpenAI and Anthropic...expect anything in the endgame phase now 💨🚀🌌](https://www.reddit.com/gallery/1u7c41g)
-
 - Saved: 2026-06-16
-
 - [Anthropic warns that AI will soon be able to improve itself without human intervention](https://edition.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal)
-
 - Saved: 2026-06-16
-
 - [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/)
-
 - Saved: 2026-06-16
-
-  
-
 ### Discord
-
-  
-
 - [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
 - Posted: 2026-06-16
-
   
-
 ## 2026-06-15
 
-  
-
 ### Reddit
-
-  
-
 - [The White House Is Ratcheting Up Its War Against Anthropic](https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/?gift=5MjKTLV9QwyU_J0HzTnanoWieJfkMhNH_YTT9pP_fhA)
 - Saved: 2026-06-15
-
 - [During testing, Mythos 5 invented its own language, then switched back to English to talk to humans](https://i.redd.it/j7uzra6wqf7h1.png)
 - Saved: 2026-06-15
-
 - [Stop using Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 - Saved: 2026-06-15
-
-- [Coding After Coders: The End of Computer Programming as We Know It
-
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.](https://www.reddit.com/r/siliconvalley/comments/1u6s8fi/coding_after_coders_the_end_of_computer/)
+- [Coding After Coders: The End of Computer Programming as We Know It In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.](https://www.reddit.com/r/siliconvalley/comments/1u6s8fi/coding_after_coders_the_end_of_computer/)
 - Saved: 2026-06-15
-
 - [Anthropic backtracks. Claims Mythos is on par with ChatGPT 5.5](https://i.redd.it/setcavb6vh7h1.png)
 - Saved: 2026-06-15
-
 ### Discord
 - [https://share.google/9XQYYjpTI9MHjmOo4](https://share.google/9XQYYjpTI9MHjmOo4)
 - Posted: 2026-06-15
@@ -209,7 +484,6 @@ In the era of A.I. agents, many Silicon Valley programmers are now barely progra
 ### Reddit
 - [LeCun's new paper argues AGI is a broken concept and humans were never "general" to begin with](https://www.reddit.com/r/aigossips/comments/1u5p2g6/lecuns_new_paper_argues_agi_is_a_broken_concept/)
 - Saved: 2026-06-14
-
 - [Google introduced the Open Knowledge Format (OKF) - a standardized way to store information in a directory of markdown files. Makes it really easy to make a digital brain that agents can use.](https://i.redd.it/u5w0vwig467h1.png)
 - Saved: 2026-06-14
 

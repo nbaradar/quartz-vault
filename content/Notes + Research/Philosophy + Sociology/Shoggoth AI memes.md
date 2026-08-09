@@ -4,8 +4,7 @@ tags:
   - thought
 draft: false
 created: 2026-07-01
-modified: 2026-07-09
-
+modified: 2026-07-01
 published: 2026-07-01
 ---
 

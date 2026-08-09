@@ -8,7 +8,10 @@ published: 2025-06-29
 draft: true
 ---
 # Outstanding Tasks
+
 - [x] Fix mobile formatting - site looks messed up from mobile client
+- [ ] **update aug 8:** make a quick script that creates proper index pages for the folders and updates the index pages. allow flexibility if you want to include specific things for specific folders. and then have it auto run in the warp workflow script by calling the script every time you build locally or sync to github. 
+- [ ] Current Recently updated section isn't updating correctly. I want to show the most recently updated/created notes in order. Check what data source the filtering is using
 - [ ] Automate a means to always auto-generate wiki style links any time a page with the "#concept" tag matches a word. So for instance, if I write a summary about a new Microsoft news article, it should auto-generate links so that users can hover over the story summary for concepts they may not be aware of. Don't do this for other tags, only makes sense for concept tag 
 - [ ] Add Analytics
 	- Use this free tool: https://umami.is/

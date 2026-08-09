@@ -3,14 +3,16 @@ title: Cost Function
 tags:
   - study
   - coursera-sml
+  - cost-function
+  - linear-regression
 draft:
 created: 2025-08-29
-
 modified: 2025-12-15
 published: 2025-08-29
+---
+>[!example] [[Linear Regression Models|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[Gradient Descent|Next Lesson ->]]
 
 ---
->[!example] [[Linear Regression Models|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[quartz/content/Study/Supervised Machine Learning/Week 1/Gradient Descent|Next Lesson ->]]
 
 The **cost function** tells us **how well the model is doing** so we can try to improve it.
 
@@ -69,5 +71,6 @@ The plot on the top right is the horizontal slices of the contour plot below. Th
 >[!question]- For linear regression, if you find parameters $w$ and $b$ so that $J(w, b)$ is very close to zero, what can you conclude? 
 > **Answer:** The selected values of the parameters $w$ and $b$ cause the algorithm to fit the training set well
 
->[!example] [[Linear Regression Models|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[quartz/content/Study/Supervised Machine Learning/Week 1/Gradient Descent|Next Lesson ->]]
+---
+>[!example] [[Linear Regression Models|<- Previous Lesson]] | [[Supervised Machine Learning|Home]] | [[Gradient Descent|Next Lesson ->]]
 

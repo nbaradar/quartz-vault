@@ -11,7 +11,9 @@ published: 2025-06-19
 
 ---
 > [!example] [[Supervised Machine Learning|Home]] | [[Supervised vs. Unsupervised Machine Learning|Next Lesson ->]]
-## **What is [[Machine Learning]]?** 
+
+---
+## What is [[Machine Learning]]? 
 The science of getting computers to learn without being explicitly programmed. It is a subfield of AI (Artificial Intelligence), and is now widely used today.
 
 >[!note] Made an account on DeepLearning.AI
@@ -45,4 +47,5 @@ Types of Machine Learning Algorithms
 - Recommender Systems
 - Reinforcement Learning
 
+---
 > [!example] [[Supervised Machine Learning|Home]] | [[Supervised vs. Unsupervised Machine Learning|Next Lesson ->]]
